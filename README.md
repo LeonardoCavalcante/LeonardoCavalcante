@@ -21,8 +21,8 @@ a developer who loves learning and solving problems. My passion for programming 
 
 ## Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leonardo-cavalcante-b11212250/)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/leonardocavalcante05/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/leonardo-cavalcante-b11212250/)
+- Instagram: [YMy Instagram](https://www.instagram.com/leonardocavalcante05/)
 
 Let's code 🚀
 
